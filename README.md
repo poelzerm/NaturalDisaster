@@ -26,3 +26,4 @@ Feel free to use, cite, or adapt the findings with proper attribution.
 For inquiries or collaboration, please reach out via [LinkedIn](https://www.linkedin.com/in/mira-p%C3%B6lzer-a0518a239/) or [GitHub](https://github.com/poelzerm).
 
 ## Paper Access
+https://docs.google.com/document/d/1dTMpep2p2a-IitL11fNZGaThUwRdZ_vvm1susDFBrEo/edit?usp=sharing
